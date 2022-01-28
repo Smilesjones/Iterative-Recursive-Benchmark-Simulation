@@ -54,5 +54,5 @@
 Then it uses an iterative or recursive bubble sorting algorithm to sort the integers, while measuring the time duration.
 There is a final table displayed in the command-line interface that compares the iterative and recursive time values.</p>
 </br>
-<p>This repository also includes the report written by myself discussing the results of the benchmarking.</p>
+<p>This repository also includes the report written by myself discussing the results of the benchmarking.  This can be found under the <code>report</code> directory</p>
 
